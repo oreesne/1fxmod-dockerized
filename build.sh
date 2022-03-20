@@ -1,0 +1,1 @@
+docker build -t 1fx/server:0.82b .

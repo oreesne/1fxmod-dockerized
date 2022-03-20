@@ -1,0 +1,1 @@
+docker run --privileged --rm --name="sof2-server" -p 20100:20100/tcp -p 20100:20100/udp -it 1fx/server:0.82b
